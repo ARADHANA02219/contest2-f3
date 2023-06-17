@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+    color: white;
+    margin-left: 30px;
+}
+.inputs{
+    margin-top: 20px;
+    display: flex;
+    padding-right: 60px;
+    padding-bottom: 30px;
+    height: 20px;
+    width: 100px;
+    
+   
+}
+#profession, #name,#age{
+    color: white;
+    background-color: #0c0000;
+    border: 1px solid grey;
+    
+    
+}
+.namecont{
+    display: block;
+    
+    padding-right: 20px;
+    color: white;
+    background-color: #0c0000;
+    
+}
+.professioncont{
+    display: block;
+    
+    padding-right: 20px; 
+   
+}
+.agecont{
+    display: block;
+    
+    padding-right: 20px; 
+}
+.emp-li-container{
+    padding-top: 50px;
+    border: 2px;
+    display: blockx;
+    padding-right: 40px; 
+    margin-right: 40px;
+    margin-top: 30px;
+    
+    
+}
+
+#adduser {
+    background-color: #faf1f1;
+    color: #0c0000;
+    height: 40px;
+    width: 140px;
+    margin-top: 20px;
+    
+}
